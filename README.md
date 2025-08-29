@@ -1,6 +1,10 @@
 # ML Algorithm for EV charger pin type and EV charger station detection and differentiation.
+
 h5 file based charger classifier, 
 used in E-Go final sem project.
+
+### Read project documentation here:
+https://drive.google.com/file/d/1SZG09FoY0d-AZ7pvyL-j1liwskmuNTx1/view?usp=sharing
 
 Model evaluation metrics:
 
