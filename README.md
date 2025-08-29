@@ -2,4 +2,4 @@
 h5 file based charger classifier, 
 used in E-Go final sem project.
 
-# Populate the train, test, valid and image_checker folders to continue using the ipynb(Jupyter source)file.
+#### Unzip image_recog_model.rar file to continue using the ipynb(Jupyter source)file.
